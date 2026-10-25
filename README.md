@@ -47,6 +47,7 @@ https://sync.jacred.stream
 - [Установка](docs/installation.md)
 - [Конфигурация](docs/configuration.md)
 - [Синхронизация и текущий 403](docs/synchronization.md)
+- [Инцидент зависания синхронизации и восстановление 25 октября](docs/local-sync-stall-incident-2026-10-25.md)
 - [ffprobe, voices и languages](docs/ffprobe-and-voices.md)
 - [Эксплуатация](docs/operations.md)
 - [Дорожная карта](ROADMAP.md)
